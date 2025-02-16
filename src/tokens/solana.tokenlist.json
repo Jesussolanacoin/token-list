@@ -50598,7 +50598,26 @@
       "tags": [
         "governance-token"
       ]
-    }
+    },
+        {
+  "chainId": 101,
+  "address": "yq5g3Dn81L6MwaZerVKwUSMXwMPyXpBTpHqgW4u7bky",
+  "symbol": "JESUS",
+  "name": "Jesus",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Jesussolanacoin/token-list/refs/heads/main/Jesus.webp",
+  "tags": [
+    "meme",
+    "community"
+  ],
+  "extensions": {
+    "creator": "3vxbDGdDKrmrtEV7a5AZXyTFaqLJT2gqb7daWvK4s4tB",
+    "Trust by":"Jesus",
+    "description":"Embrace this token as a beacon of hope and wealth, blessed by divine grace and destined for everlasting growth."
+    "twitter": "https://x.com/JesusSolanaCoin",
+    
+  }
+}
   ],
   "version": {
     "major": 0,
